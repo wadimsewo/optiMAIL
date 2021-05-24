@@ -16,3 +16,6 @@ html, body, #app {
   height: 100%;
 }
 </style>
+<style lang="scss">
+@import "src/assets/scss/index";
+</style>
